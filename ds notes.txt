@@ -1,0 +1,6 @@
+Day 3:
+1. https://drive.google.com/file/d/1Yu6enprJzEFzIvkVpkMBfHNf2563YMPs/view?usp=sharing ------> drive link for google colab
+2. https://github.com/alokproc/imarticus/tree/master/Python -------> link for assignment
+3. https://github.com/alokproc/imarticus/blob/master/Python/Session%201/ebook/Python%20for%20Aspiring%20Data%20Scientists%20(8).pdf ----> textbook
+4. https://colab.research.google.com/github/alokproc/imarticus/blob/master/Python/Session%202:%20Data%20Type/python-data-structures-04-STRINGS.ipynb -----> for running in colab
+
